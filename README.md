@@ -236,7 +236,7 @@
     </div>
     <div class="content">
         <div class="custom-card">
-            <img src="C:\Users\User\Desktop\My_Pages\Epic_logo.gif" alt="RF EPIC Image" style="width: 100%; height: auto;">
+            <img src="Epic_logo.gif" alt="RF EPIC Image" style="width: 100%; height: auto;">
             <h3>RF EPIC</h3>
             <p>Embark on an epic adventure in RF EPIC, a new version of the classic MMORPG RF Online.</p>
             <a href="https://www.epicfullpvp.com" target="_blank">Join Now</a>
